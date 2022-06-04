@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hayday-price-calculator/static/css/main.8713a3a6.css",
+    "main.js": "/hayday-price-calculator/static/js/main.00e61979.js",
+    "static/media/bg.webp": "/hayday-price-calculator/static/media/bg.6a9fb63e66bddaee43d2.webp",
+    "index.html": "/hayday-price-calculator/index.html",
+    "main.8713a3a6.css.map": "/hayday-price-calculator/static/css/main.8713a3a6.css.map",
+    "main.00e61979.js.map": "/hayday-price-calculator/static/js/main.00e61979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8713a3a6.css",
+    "static/js/main.00e61979.js"
+  ]
+}
